@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Wajiha 👋
 
-<!--
-**wajihabibi/wajihabibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Physics Graduate | Aspiring Data Scientist | Machine Learning Enthusiast
 
-Here are some ideas to get you started:
+I'm a Physics graduate transitioning into Data Science and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background in Physics has developed my analytical thinking, mathematical foundation, and problem-solving skills. I'm currently building practical skills in Python, Data Analysis, Statistics, Machine Learning, and AI.
+
+## 🔭 Currently Learning
+
+* Python for Data Science
+* NumPy & Pandas
+* Data Visualization
+* Statistics
+* SQL
+* Machine Learning
+* Scikit-learn
+* Artificial Intelligence
+
+## 🛠️ Technical Skills
+
+**Programming**
+
+* Python
+* SQL
+
+**Data Science**
+
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn
+* Scikit-learn
+
+**Tools**
+
+* JupyterLab
+* Git
+* GitHub
+* VS Code
+
+I'm interested in Data Science, Machine Learning, Artificial Intelligence, and Scientific Machine Learning, particularly at the intersection of Physics and AI.
+
+## 📫 Connect With Me
+
+* LinkedIn: Add your LinkedIn URL here
+* Portfolio: Add your portfolio URL here
+* Email: Add your professional email here
