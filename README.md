@@ -1,6 +1,6 @@
 # Hi, I'm Wajiha 👋
 
-### Physics Graduate | Aspiring Data Scientist | Machine Learning Enthusiast
+### Physics to Data Science | Aspiring Data Scientist | Machine Learning Enthusiast
 
 I'm a Physics graduate transitioning into Data Science and Artificial Intelligence.
 
