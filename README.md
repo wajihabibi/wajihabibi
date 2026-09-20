@@ -2,7 +2,7 @@
 
 🎓 **BS Physics Graduate | Aspiring Data Scientist**
 
-I'm a Physics graduate from Pakistan transitioning into **Data Science, Machine Learning, and Artificial Intelligence**.
+I'm a Physics graduate transitioning into **Data Science, Machine Learning, and Artificial Intelligence**.
 
 My background in Physics has developed my **mathematical thinking, analytical skills, problem-solving ability, and interest in computational methods**. During my studies, my interest in programming and computational problem-solving motivated me to explore the field of Data Science.
 
